@@ -1,0 +1,123 @@
+/* navbar */
+.navigationbar
+{
+    overflow: hidden;
+    position: fixed; 
+    top: 0; 
+    width: 100%;
+    z-index: 1;
+
+    
+}
+.searchbar
+{
+    margin-left: 20%;
+    margin-right: 10%;
+}
+.dropdown-menu
+{
+    margin-left: auto;
+}
+/* second section */
+.secondsection
+{
+    padding-top: 2.5%;
+    height: 500px;
+    background: #000;
+}
+.secondsection-one
+{
+    color:#ffffff;
+    padding: 10%;
+}
+.secondsection-carousel
+{
+    height: 400px;
+    width: 500px;
+    position: relative;
+    bottom: 60%;
+    left: 47%;
+    
+}
+/* thirdsection */
+.thirdsection
+{
+ padding: 10%
+}
+.thirdsection-one
+{
+    text-align: center;
+}
+.thirdsection-text
+{
+    padding-top: 10%;
+}
+/* fourth section */
+ 
+.fourthsection
+{
+    background: #000;
+    height: 400px;
+    padding: 5%;
+}
+.fourthsection-card
+{
+    width: 70%;
+}
+.fourthsection-row
+{
+    padding: 3.5%;
+}
+.scroll-div
+{
+    background: #313131;
+    height: 300px;
+    overflow: hidden;
+    overflow-y: scroll;
+} 
+
+/* fifth section  */
+.fifthsection
+{
+    padding: 10%;
+    background: #ffff;
+    
+}
+.category-header
+{
+    padding-bottom: 3%;
+}
+.category-box
+{ 
+    border-style: ridge;
+    border-color: #000;
+    padding: 5% 5%;
+    text-align: center;
+}
+.category-link a:hover
+{
+    color: red;
+}
+/* sixth section  */
+
+.sixthsection
+{
+    background: #000;
+    padding: 5%;
+}
+.sixthsection-carouselitem
+{
+    margin: 7% 10%;
+
+}
+/* footer  */
+.footer_text
+{
+ padding: 10% 50%;
+ background: #fff;
+}
+.footer
+{
+    border: #000;
+    border-style: solid;
+}
